@@ -1,7 +1,7 @@
-## Getting Started
+## Getting Started - OOP BOOK LIBRARY
 
 Welcome in our project, we are a made a project library in java 
-## OOP BOOK LIBRARY 
+## Contributor
 - `Mahardika Kessuma Denie`, 
 - `Ngafif Hasyim ` 
 - `Ayuni Febrianti`
@@ -17,8 +17,13 @@ The workspace contains two folders by default, where:
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-<!-- > If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there. -->
+## What is Book OOP LIBRARY ? 
+this is our project to complete a big assignment in Object Oriented Programming course at Adirajasa Reswara Sanjaya University
 
-<!-- ## Dependency Management
+## Feature
+In this aplication we have 2 options : Loan Or buy Book 
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies). -->
+- `Loan` : if you want to lend a book, you can fill in your identity on my platform, and then you fill in how much you want to lend this book,
+- `Buy ` : if you want to buy this book, you have to fill in your identity on my platform, and then you pay this bill to get this book 
+
+
