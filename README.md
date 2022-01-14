@@ -1,7 +1,7 @@
 ## Getting Started
 
-Welcome in our project, we are a made a project library in java
-Author : 
+Welcome in our project, we are a made a project library in java 
+## OOP BOOK LIBRARY 
 - `Mahardika Kessuma Denie`, 
 - `Ngafif Hasyim ` 
 - `Ayuni Febrianti`
