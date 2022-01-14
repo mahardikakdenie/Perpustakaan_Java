@@ -1,6 +1,10 @@
 ## Getting Started
 
 Welcome in our project, we are a made a project library in java
+Author : 
+- `Mahardika Kessuma Denie`, 
+- `Ngafif Hasyim ` 
+- `Ayuni Febrianti`
 
 ## Folder Structure
 
