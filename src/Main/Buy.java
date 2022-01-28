@@ -60,7 +60,7 @@ public class Buy extends Buku {
         System.out.println("===================");
         System.out.println("FullName : " + fullname);
         System.out.println("Age : " + age);
-        System.out.println("Book Title : " + Buku.title);
+        System.out.println("Book Title : " + this.title);
         System.out.println("Type : " + this.type);
         System.out.println("Publisher : " + this.publisher);
         System.out.println("Price : " + this.book_price);
@@ -71,7 +71,7 @@ public class Buy extends Buku {
 
     public void info() {
         System.out.println("===================");
-        System.out.println("Book Title : " + Buku.title);
+        System.out.println("Book Title : " + this.title);
         System.out.println("Type : " + this.type);
         System.out.println("Publisher : " + this.publisher);
         System.out.println("Price : " + this.book_price);

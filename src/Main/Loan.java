@@ -25,7 +25,7 @@ public class Loan extends Buku {
 
     public void info() {
         System.out.println("================================== ");
-        System.out.println("Title : " + Buku.title);
+        System.out.println("Title : " + this.title);
         System.out.println("Publisher : " + this.publisher);
         System.out.println("Type : " + this.type);
         System.out.println("book price / week : " + this.book_price);
@@ -37,7 +37,7 @@ public class Loan extends Buku {
         System.out.println("================================== ");
         System.out.println("FullName : " + fullName);
         System.out.println("Age : " + age);
-        System.out.println("Book Title : " + Buku.title);
+        System.out.println("Book Title : " + this.title);
         System.out.println("Day : " + this.getDay_borrow());
         System.out.println("Price : " + this.getSum());
         System.out.println("================================== ");

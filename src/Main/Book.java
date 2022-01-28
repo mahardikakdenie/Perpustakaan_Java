@@ -3,18 +3,18 @@
  */
 package Main;
 
-abstract class Buku {
-    protected static String title;
+abstract class Book {
+    protected String title;
     protected String publisher;
     // private Author author;
 
-    public Buku(String book_title) {
-        Buku.title = book_title;
+    public Book(String book_title) {
+        this.title = book_title;
     }
 
     // Set
     public void setTitle(String title) {
-        Buku.title = title;
+        this.title = title;
     }
 
     // public void setAuthor(Author author) {
@@ -23,7 +23,7 @@ abstract class Buku {
 
     // Get
     public String getTitle() {
-        return Buku.title;
+        return this.title;
     }
 
     // public Author getAuthor() {
